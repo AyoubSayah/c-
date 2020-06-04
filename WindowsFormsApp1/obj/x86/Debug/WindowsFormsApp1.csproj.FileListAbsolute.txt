@@ -1,0 +1,15 @@
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\System.Data.Odbc.dll
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\System.Data.Odbc.xml
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\sayah\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\Oracle.DataAccess.dll
